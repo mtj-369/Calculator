@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Glitch+Pop&display=swap');
+
+html , body {
+   height: 100%;
+   width: 100%;
+
+   font-family: 'Rubik Glitch Pop', system-ui;
+}
+
+.button{
+    padding: 20px;
+    width: 66px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+}
+
+.row{
+    margin: 8px 0;
+}
+
+.row input{
+    margin: 0;
+    width: 291px;
+    font-size: 20px;
+    padding: 10px 0px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
